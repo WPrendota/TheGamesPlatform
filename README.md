@@ -10,9 +10,9 @@ Version 1.0.0
 ---
 
 ## Description:
-The Games Platform with following games:
-1
-*The Tic Tac Toe Single Player game.*
+### The Games Platform with following games:
+
+### *The Tic Tac Toe Single Player game.*
 
 ---
 
