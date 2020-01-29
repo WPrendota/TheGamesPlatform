@@ -18,7 +18,7 @@ Version 1.0.0
 ---
 
 ## Deployment
-Download the **SimpleCalculator.py** file. In the command line use following arguments for desirable action:
+Download the **TicTacToe.py** file. In the command line use following arguments for desirable action:
 * ```-h``` for the help
 * ```-t``` for the Tic Tac Toe Single Player game,
 * ```-c``` for The Checkers Single Player game (In the progress).
